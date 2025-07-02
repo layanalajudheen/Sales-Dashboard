@@ -44,7 +44,3 @@ It enables comprehensive sales and profit analysis across regions, time, segment
 - Drill-downs, Filters, Slicers
 
 
-
----
-
-Would you like help creating the folder structure and uploading this Power BI project to GitHub (along with the .pbix file, screenshot, and README)?
